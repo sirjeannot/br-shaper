@@ -3,7 +3,7 @@
 ############################################
 # Trafic shaper v4 TESTING                 #
 # features : shaping per subnet and per IP #
-# YFLEGEAU 2018/03/22                      #
+#          2018/03/22                      #
 ############################################
 # tc -s -d class show dev eth0
 
